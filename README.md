@@ -9,7 +9,7 @@ Beanora is a fictional coffee brand created as a frontend practice project to im
 ## 🌐 Live Demo
 
 🔗 **Live Website:**  
-[Live](https://kiruthika-m-2210.github.io/Beanora/)
+[Beanora](https://kiruthika-m-2210.github.io/Beanora/)
 
 ---
 
