@@ -1,4 +1,4 @@
-# ☕ Beanora — Coffee Landing Page
+# ☕ Beanora — Coffee Shop Landing Page
 
 A modern and responsive coffee shop landing page built using **HTML5 and CSS3**.
 
